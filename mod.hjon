@@ -1,7 +1,7 @@
-ame: "randomstuff"
-displayName: "Random Stuff"
+name: "Random-Mappack"
+displayName: "Random Mappack"
 author: Yourself
-description: "the place where i theow random ideas tha come up in my head"
+description: "A Random Mappack"
 version: "1.0"
 minGameVersion: "146"
 dependencies: [ ]
