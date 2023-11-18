@@ -5,4 +5,4 @@ description: "A Random Mappack"
 version: "1.0"
 minGameVersion: "146"
 dependencies: [ ]
-hidden: false
+hidden: true
