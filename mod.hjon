@@ -1,0 +1,8 @@
+ame: "randomstuff"
+displayName: "Random Stuff"
+author: Yourself
+description: "the place where i theow random ideas tha come up in my head"
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
